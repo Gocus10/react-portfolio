@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Music Line",
+      "image": "./images/musicline.png",
+      "description": "Express/Sequelize/Handlebars",
+      "link": "https://pure-lake-04042.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "Movie Search",
+        "image": "./images/project1.png",
+        "description": "HTML/CSS/Javascript",
+        "link": "https://gocus10.github.io/project1/"
+    },
+    {
+        "id": 3,
+        "name": "The Tech Blog",
+        "image": "../images/techblog.png",
+        "description": "Full Stack",
+        "link": "https://hidden-hamlet-01212.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "name": "Run Buddy",
+        "image": "images/run-buddy.png",
+        "description": "HTML/CSS",
+        "link": "https://gocus10.github.io/run-buddy/"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "image": "../images/notetaker.png",
+        "description": "Express/mysql/bootstrap",
+        "link": "https://gocus-note-taker.herokuapp.com/"
+    }  
+]
